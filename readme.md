@@ -1,4 +1,4 @@
 # TAREA 2 - TECNOLOGIAS EMERGENTES II
-# Curso de Pyhton
+# Curso de Phyton
 ## Estudiante:
 Jose David Lecoña Huayhua
